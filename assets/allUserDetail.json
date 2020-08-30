@@ -1,0 +1,5 @@
+[
+    { "id": 1, "rollno": 10 ,"firstName": "Sameer", "lastName": "Chavan", "username": "test1", "password": "test1", "address":"Airoli", "contactno": 9898123452 },
+    { "id": 2, "rollno": 11 ,"firstName": "Ramesh", "lastName": "Parab", "username": "test2", "password": "test2", "address":"Bhandup", "contactno": 9897123453 },
+    { "id": 3, "rollno": 12 , "firstName": "Suresh", "lastName": "Khanna", "username": "test3", "password": "test3", "address":"Mulund", "contactno": 9899123454 }
+]

@@ -1,0 +1,36 @@
+[
+{
+    "id":1,
+    "marksdata": [{ "subject": ".Net Framework","marks": 35, "course": "CDAC", "subjecttype":"Advanced" },
+              { "subject": "Spring Boot", "marks": 45 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "Angular 7","marks": 65 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "Core Java", "marks": 80 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "Web Development", "marks": 95 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "PHP", "marks": 68 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "SQL Server", "marks": 70 ,"course": "CDAC","subjecttype":"Advanced"},
+              { "subject": "Web Development", "marks": 95 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "PHP", "marks": 68 ,"course": "CDAC","subjecttype":"Advanced"}, 
+              { "subject": "SQL Server", "marks": 70 ,"course": "CDAC","subjecttype":"Advanced"}
+            ]
+},
+{
+    "id":2,
+    "marksdata": [{ "subject": ".Net Framework","marks": 35, "course": "CDAC", "subjecttype":"Advanced" },
+        { "subject": "Spring Boot", "marks": 35 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "Angular 7","marks": 65 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "Core Java", "marks": 60 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "Web Development", "marks": 85 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "PHP", "marks": 68 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "SQL Server", "marks": 50 ,"course": "CDAC","subjecttype":"Advanced"}]
+},
+{
+    "id":3,
+    "marksdata": [{ "subject": ".Net Framework","marks": 40, "course": "CDAC", "subjecttype":"Advanced" },
+        { "subject": "Spring Boot", "marks": 45 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "Angular 7","marks": 95 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "Core Java", "marks": 80 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "Web Development", "marks": 95 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "PHP", "marks": 58 ,"course": "CDAC","subjecttype":"Advanced"}, 
+        { "subject": "SQL Server", "marks": 68 ,"course": "CDAC","subjecttype":"Advanced"}]
+}
+]
